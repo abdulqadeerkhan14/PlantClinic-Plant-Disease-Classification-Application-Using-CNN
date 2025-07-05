@@ -1,4 +1,4 @@
-# PlantClinic-Plant-Disease-Classification-Application-Using-CNN
+# Plant-Disease-Classification-And-Treatment-Application-Using-CNN
 # PlantClinic
 
 A Flutter mobile application for detecting plant diseases using TensorFlow Lite (TFLite) machine learning.
