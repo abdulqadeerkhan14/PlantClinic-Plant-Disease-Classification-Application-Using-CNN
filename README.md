@@ -32,7 +32,10 @@ The app can currently detect and provide treatment for:
 
 ## ScreenShorts Of Application
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2435fa55-ef3a-474b-9b2b-710f0718e961" width="45%" />
+  <img src="https://github.com/user-attachments/assets/9a9b41f6-15b7-46b3-8615-c48a2fbe9c4d" width="45%" />
+</p>
 
 
 ## Getting Started
